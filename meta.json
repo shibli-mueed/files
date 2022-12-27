@@ -1,8 +1,8 @@
 {
     "appName":"app_name",
     "version":"0.1 alpha",
-    "icon30":"",
-    "icon60":"",
-    "waterMark":""
+    "iconSq":"https://github.com/shibli-mueed/files/raw/main/res/Studio-removebg-preview.png",
+    "iconRect":"https://raw.githubusercontent.com/shibli-mueed/files/main/res/Untitled_design-removebg-preview.png",
+    "waterMark":"https://raw.githubusercontent.com/shibli-mueed/files/main/res/Untitled_design-removebg-preview.png"
     
 }
